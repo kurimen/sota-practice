@@ -1,2 +1,2 @@
 # sota-practice
-practice of git
+update README by sota
